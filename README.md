@@ -7,8 +7,8 @@ A junior software developer with experience developing and maintaining software 
 
 Currently I'm studying in Backend part at Glow-KOR.
 
-한국공학대학교 컴퓨터공학과를 졸업했습니다.
-Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless framework 경험이 있는 주니어 개발자입니다.
+한국공학대학교 컴퓨터공학과를 졸업했습니다.<br>
+Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless framework 경험이 있는 주니어 개발자입니다.<br>
 현재는 Glow-KOR 백엔드 파트에서 공부중입니다.
 
 ## Tech Stack
