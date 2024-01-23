@@ -1,27 +1,47 @@
-### 이진성, Jinsung Lee
+# 이진성, Jinsung Lee
 
 ## I'm
 A graduated student majoring in Computer Engineering Department in Tech University Of Korea.
 
-A junior software developer with experience developing and maintaining software platform(Python Flask, AWS, Cloudformation, Serverless framwork)
+A junior software developer with experience developing and maintaining software platform(Python FastAPI, Flask, AWS Cloudformation, Serverless framework)
 
-Currently I'm stdying in Backend part at Glow-KOR.
+Currently I'm studying in Backend part at Glow-KOR.
+
+한국공학대학교 컴퓨터공학과를 졸업했습니다.
+Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless framework 경험이 있는 주니어 개발자입니다.
+현재는 Glow-KOR 백엔드 파트에서 공부중입니다.
 
 ## Tech Stack
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="100" height="100"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a> 
-  <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="100" height="100"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="100" height="100"/> </a>
 
+* Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-009688?style=for-the-badge&logo=Flask&logoColor=white">
 
+* Database
+<p align="left">
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white">
+
+* Infra
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+
+* ETC
+<p align="left">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  
 ## Contact
 * email : jinsunglee198@gmail.com
-* kakao : dinotiger
-* tistory : https://masacorgi.tistory.com/
-  
+* kakao ID : dinotiger
+* Linkedin : [Link](https://www.linkedin.com/in/jinsung-lee-4937392a9/)
+
 <!--
 **masacorgi/masacorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
