@@ -22,6 +22,7 @@ Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless fram
 * Database
 <p align="left">
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 * Infra
 <p align="left">
