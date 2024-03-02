@@ -16,13 +16,16 @@ Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless fram
 * Backend
 <p align="left">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-009688?style=for-the-badge&logo=Flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 
 * Database
 <p align="left">
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Studio3T-17AF66?style=for-the-badge&logo=Studio3T&logoColor=white">
 
 * Infra
 <p align="left">
@@ -33,16 +36,18 @@ Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless fram
 * ETC
 <p align="left">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAIlogoColor=white">
   
 ## Contact
 * email : jinsunglee198@gmail.com
 * kakao ID : dinotiger
-* Linkedin : [Link](https://www.linkedin.com/in/jinsung-lee-4937392a9/)
-
+* Linkedin : https://www.linkedin.com/in/jinsung-lee-4937392a9/
+* Velog : https://velog.io/@masacorgi/posts
 <!--
 **masacorgi/masacorgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
