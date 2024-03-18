@@ -58,10 +58,11 @@ Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless fram
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAIlogoColor=white">
   
-## Contact
+## Info
 
-* Kakaotalk ID : dinotiger
-* E-mail : jinsunglee198@gmail.com
-* 이력서 : [notion resume link](https://factual-cave-75d.notion.site/Jinsung-Lee-87afdf8a4e5f4cabb99c17dce5b81979)
-* 블로그 : [tistory blog link](https://masacorgi.tistory.com/)
+* Contack : jinsunglee198@gmail.com
+* Blog : https://masacorgi.tistory.com/
+* Resume : [Notion Resume Link](https://factual-cave-75d.notion.site/Jinsung-Lee-87afdf8a4e5f4cabb99c17dce5b81979)
+* Portfolio : [Notion Portfolio Link](https://factual-cave-75d.notion.site/c26617e2d4ea415aa0e239244c0a3a77)
+
 
