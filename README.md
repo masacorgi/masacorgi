@@ -62,7 +62,5 @@ Python Flask, FastAPI, 그리고 다양한 AWS Cloudformation과 Serverless fram
 
 * Contack : jinsunglee198@gmail.com
 * Blog : https://masacorgi.tistory.com/
-* Resume : [Notion Resume Link](https://factual-cave-75d.notion.site/Jinsung-Lee-87afdf8a4e5f4cabb99c17dce5b81979)
-* Portfolio : [Notion Portfolio Link](https://factual-cave-75d.notion.site/c26617e2d4ea415aa0e239244c0a3a77)
 
 
