@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 MCU, MPU를 이용한 IoT 시스템, 크게는 스마트팩토리, 스마트팜에 관심이 있는 주니어 개발자입니다.   
 한국공학대학교 컴퓨터공학과를 졸업했고, 창업팀 Glow 에서 웹 백엔드, 인프라 경험을 했습니다.   
 
-Junior developer with an interest in IoT systems, particularly in smart factories and smart farms, utilizing MCUs and MPUs. 
-  
+Junior developer with an interest in IoT systems, particularly in smart factories and smart farms, utilizing MCUs and MPUs.   
 I graduated from the Department of Computer Engineering at Technical University of Korea, and I experienced web backend development and infrastructure from startup team Glow.
 
 
@@ -47,4 +46,80 @@ I graduated from the Department of Computer Engineering at Technical University 
 * Contack : jinsunglee198@gmail.com
 * Blog : https://masacorgi.tistory.com/
 
+<!-- linkedin backend introduce ENG ver.
+I'm a developer who values requirements analysis.
+After graduating from Tech University of Korea, I learned backend development with the startup team Glow, using various Python frameworks. I enjoy working with AWS cloud platforms and have a deep understanding of NoSQL.
 
+Key Strengths: Rapid integration, requirement identification, communication skills.
+
+As a junior developer now, I believe most issues arise from unfamiliar technology and adapting to new project structures quickly. Recognizing and organizing requirements is crucial for problem-solving. Effective communication is essential, and I enjoy collaborative discussions with senior and peer team members.
+
+
+
+Technical Stack
+Back-End Framework: fastapi, Flask
+
+Learned Flask and fastapi for their rapid production and verification advantages, developed RESTful APIs.
+
+Database: DynamoDB, MySQL
+
+Used DynamoDB for flexible scalability and cost advantages in startup projects. Proficient in PK, SK settings, single-table design, and inverted index usage.
+
+Deployment: 
+
+- AWS EC2: Experienced in initial instance setup and maintenance using CLI and console.
+
+- Docker, GitHub CI/CD: Established CI/CD using GitHub Actions and Docker for continuous deployment and testing, considering development and production environment separation.
+
+Tools & Collaborations:
+
+- Git, GitHub: Used for team collaboration, with set rules for PR, commits, and code reviews. Experienced with commit message rules using Gitmoji.
+
+- Jira, Slack: Managed project schedules with weekly sprints using Jira, integrated with GitHub for seamless task management. Used Slack for communication, integrating AWS and GitHub notifications.
+
+
+
+Experience
+SNS Marketing Platform 'Glow' (2023.10 - Present)
+
+Python, FastAPI, Flask, DynamoDB, AWS EC2, Lambda
+
+Team: 2 BE, 2 FE
+
+Service: https://www.glowcorp.io/
+
+Platform for promoting SNS accounts using missions and prizes.
+
+Responsibilities:
+
+- Implemented backend server logging
+
+- Developed various CRUD APIs
+
+- Modified DB connection code during Flask to FastAPI migration
+
+Project Highlights:
+
+- Developed for actual service operation
+
+- Migrated from Flask to FastAPI for cleaner code
+
+- Introduced active code review culture for knowledge sharing and code quality improvement
+
+- Used Slack for communication, meetings, and error checking
+
+
+
+Education
+Tech University of Korea 한국공학대학교 (2017.03 - 2024.02)
+
+Bachelor's in Computer Engineering
+
+Received academic scholarship
+
+
+
+Language Proficiency
+TOEIC: 950 (Acquired in September 2023)
+Elementary school English summer camp in the United States
+-->
