@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 # 이진성, Jinsung Lee
 
 ## I'm
-MCU, MPU를 이용한 IoT 시스템, 크게는 스마트팩토리, 스마트팜에 관심이 있는 주니어 개발자입니다.   
-한국공학대학교 컴퓨터공학과를 졸업했고, 창업팀 Glow 에서 웹 백엔드, 인프라 경험을 했습니다.   
+IoT 시스템과 연동되어 동작하는 Backend 개발에 관심이 많은 주니어 개발자입니다.   
+한국공학대학교 컴퓨터공학과를 졸업했고, 창업팀 Glow 에서 웹 백엔드, 인프라 경험을 했습니다.
+<!-- 현재 온습도 감지 시스템, 모바일 알람 전송 시스템을 공급하는 회사에서 근무 중입니다. -->
 
-Junior developer with an interest in IoT systems, particularly in smart factories and smart farms, utilizing MCUs and MPUs.   
-I graduated from the Department of Computer Engineering at Technical University of Korea, and I experienced web backend development and infrastructure from startup team Glow.
+I am a junior developer with a strong interest in Backend development that integrates with IoT systems.   
+I graduated from the Department of Computer Engineering at Technical University of Korea, and gained experience in web backend development and infrastructure as part of the startup team Glow.
+<!-- Currently working at a company that supplies temperature and humidity detection systems, as well as mobile alarm notification systems. -->"
+
+
 
 
 ## Tech Stack
@@ -32,6 +36,7 @@ I graduated from the Department of Computer Engineering at Technical University 
 
 * Backend
   * Python Flask, Fastapi
+  * RESTful API
   * DynamoDB, MySQL
   * Docker
  
@@ -44,7 +49,7 @@ I graduated from the Department of Computer Engineering at Technical University 
  
 ## Info
 * Contack : jinsunglee198@gmail.com
-* Blog : https://masacorgi.tistory.com/
+* Dev Blog : https://masacorgi.tistory.com/
 
 <!-- linkedin backend introduce ENG ver.
 I'm a developer who values requirements analysis.
