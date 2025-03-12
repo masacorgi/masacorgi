@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 ## I'm
 IoT 시스템과 연동되어 동작하는 Backend 개발에 관심이 많은 주니어 개발자입니다.   
-한국공학대학교 컴퓨터공학과를 졸업했고, 창업팀 Glow 에서 웹 백엔드, 인프라 경험을 했습니다.
-<!-- 현재 온습도 감지 시스템, 모바일 알람 전송 시스템을 공급하는 회사에서 근무 중입니다. -->
+한국공학대학교 컴퓨터공학과를 졸업했고, 창업팀 Glow 에서 웹 백엔드, 인프라 경험을 했습니다.   
+현재는 하솜정보기술에서 다양한 IoT 모니터링, 알람전송 기기를 다루고 있습니다.
 
 I am a junior developer with a strong interest in Backend development that integrates with IoT systems.   
 I graduated from the Department of Computer Engineering at Technical University of Korea, and gained experience in web backend development and infrastructure as part of the startup team Glow.
-<!-- Currently working at a company that supplies temperature and humidity detection systems, as well as mobile alarm notification systems. -->"
+Currently working at a company that supplies temperature and humidity detection systems, as well as mobile alarm notification systems.
 
 
 
