@@ -48,7 +48,7 @@ Currently working at a company that supplies temperature and humidity detection 
   * Slack, Jira
  
 ## Info
-* Contack : jinsunglee198@gmail.com
+* Contact : jinsunglee198@gmail.com
 * Dev Blog : https://masacorgi.tistory.com/
 
 <!-- linkedin backend introduce ENG ver.
